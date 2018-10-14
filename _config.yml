@@ -1,9 +1,9 @@
 # Site/SEO settings
-email: 
+email: 729150170@qq.com
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-title: Trophy
+title: 光与影的交错
 description: 
 url: ""
 baseurl: ""
@@ -15,7 +15,7 @@ name:
 profile_img: 
 profile: 
 social:
-  github: 
+  github: https://github.com/shaoganpeng313/shaoganpeng313.github.io
 
 # Build settings
 markdown: kramdown
